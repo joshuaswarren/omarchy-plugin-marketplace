@@ -60,3 +60,7 @@ Marketplace structure and submission workflow inspired by [limehawk's Omarchy Th
 ## License
 
 [MIT License](LICENSE) · [Marketplace and third-party rights notice](NOTICE.md)
+
+## Contributors
+
+Everyone credited so far: [CONTRIBUTORS.md](CONTRIBUTORS.md).
